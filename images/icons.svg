@@ -64,5 +64,25 @@
   </symbol>
   <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 11" id="btn-close">
    <path d="M11 1.1L9.9 0 5.5 4.4 1.1 0 0 1.1l4.4 4.4L0 9.9 1.1 11l4.4-4.4L9.9 11 11 9.9 6.6 5.5 11 1.1z"/>
-  </symbol
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="icon-send">
+   <path d="M24 0L0 13.5l7.67 2.84L19.5 5.25l-9 12.14V24l4.3-5.02L20.25 21 24 0z"/> 
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" id="icon-person">
+   <path  d="M9 9a3 3 0 100-6 3 3 0 000 6zm0 1.5c-2 0-6 1-6 3v.75c0 .41.34.75.75.75h10.5c.41 0 .75-.34.75-.75v-.75c0-2-4-3-6-3z"/> 
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" id="icon-mail">
+<path  d="M15 3H3c-.83 0-1.5.67-1.5 1.5v9c0 .82.67 1.5 1.5 1.5h12c.82 0 1.5-.68 1.5-1.5v-9c0-.83-.68-1.5-1.5-1.5zm-.3 3.19L9.4 9.5a.76.76 0 01-.8 0L3.3 6.2a.64.64 0 11.68-1.08L9 8.25l5.03-3.14a.64.64 0 11.67 1.08z"/> 
+  </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" id="icon-phone">
+<path  d="M14 11.12l-1.84-.2c-.44-.06-.88.1-1.19.4l-1.33 1.34a10.89 10.89 0 01-4.77-4.77l1.34-1.34c.31-.31.46-.75.41-1.19l-.2-1.82a1.45 1.45 0 00-1.45-1.28H3.72c-.82 0-1.5.68-1.45 1.5a12.3 12.3 0 0011.5 11.5c.82.05 1.5-.63 1.5-1.45v-1.25c0-.74-.54-1.35-1.27-1.44z"/> 
+  </symbol>
+ <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15" id="icon-checked">
+<rect width="16" height="15" fill="#2196F3" rx="2"/>
+  <path fill="#fff" stroke="#fff" stroke-width=".2" d="M3.96 7.75l-.07-.06-.07.06-.89.84-.08.07.08.08 3.5 3.33.07.07.06-.07 7.5-7.16.08-.07-.07-.07-.88-.84-.07-.07-.07.07-6.55 6.24-2.54-2.42z"/>
+  </symbol>
+ <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15" id="icon-unchecked">
+<path  d="M14.22 1.67v11.66H1.78V1.67h12.44zm0-1.67H1.78C.8 0 0 .75 0 1.67v11.66C0 14.25.8 15 1.78 15h12.44c.98 0 1.78-.75 1.78-1.67V1.67C16 .75 15.2 0 14.22 0z"/>
+  </symbol>
+  
 </svg>
