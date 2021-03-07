@@ -672,6 +672,7 @@ button {
 .portfolio-item:hover,
 .portfolio-item:focus {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  /* outline: 1px solid rgb(var(--main-color-blue-rgb)); */
   /* cursor: pointer; */
 }
 
@@ -689,6 +690,7 @@ button {
   border-left: 1px solid #eeeeee;
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
+  outline: none;
 }
 .portfolio-img {
   display: block;
@@ -723,7 +725,7 @@ button {
   font-weight: 700;
   letter-spacing: 0.06em;
   line-height: 2;
-  color: var(--main-color-darkgrey);
+  color: rgb(var(--main-color-darkgrey-rgb));
   margin-bottom: 4px;
 }
 
