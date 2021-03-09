@@ -890,6 +890,7 @@ button {
 .terms-check:hover + .icon-wrapper,
 .terms-check:focus + .icon-wrapper {
   color: rgb(var(--main-color-blue-rgb));
+  cursor: pointer;
 }
 
 .terms-label .icon-wrapper {
